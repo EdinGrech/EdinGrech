@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edingrech&label=Profile%20views&color=0e75b6&style=flat" alt="edingrech" /> </p>
 
-- 🔭 I’m currently working on **[REDACTED]**
-- 🌱 I’m currently learning **Spring Boot**
+- 🔭 I’m currently working on **Angular applications at work / Tipping system at home**
+- 🌱 I’m currently learning **Kubernetes / Jenkins-X**
 - 👨‍💻 Personal site **Soon™**
 
 <h3 align="left">Languages and Tools:</h3>
